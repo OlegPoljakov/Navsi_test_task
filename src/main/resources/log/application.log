@@ -1,0 +1,70 @@
+[main] INFO  com.example.Navsi_test_task.Client  - Holly Fuck!
+[main] INFO  com.example.Navsi_test_task.Client  - Holly Fuck!
+[main] INFO  com.example.Navsi_test_task.Server  - Connection is set. Server waits for an answer
+[main] INFO  com.example.Navsi_test_task.Server  - A new thread for a new client is created
+[main] INFO  com.example.Navsi_test_task.Client  - Connection is set!
+[main] INFO  com.example.Navsi_test_task.Client  - File is read
+[main] INFO  com.example.Navsi_test_task.Server  - Connection is set. Server waits for an answer
+[main] INFO  com.example.Navsi_test_task.Client  - Binary data is sent
+[main] INFO  com.example.Navsi_test_task.Server  - Connection is set. Server waits for an answer
+[main] INFO  com.example.Navsi_test_task.Server  - A new thread for a new client is created
+[main] INFO  com.example.Navsi_test_task.Client  - Connection is set!
+[main] INFO  com.example.Navsi_test_task.Server  - Connection is set. Server waits for an answer
+[main] INFO  com.example.Navsi_test_task.Client  - File is read
+[main] INFO  com.example.Navsi_test_task.Client  - Binary data is sent
+[main] INFO  com.example.Navsi_test_task.Server  - Connection is set. Server waits for an answer
+[main] INFO  com.example.Navsi_test_task.Server  - A new thread for a new client is created
+[main] INFO  com.example.Navsi_test_task.Client  - Connection is set!
+[main] INFO  com.example.Navsi_test_task.Server  - Connection is set. Server waits for an answer
+[main] INFO  com.example.Navsi_test_task.Client  - File is read
+[main] INFO  com.example.Navsi_test_task.Client  - Binary data is sent
+[main] INFO  com.example.Navsi_test_task.Server  - Connection is set. Server waits for an answer
+[main] INFO  com.example.Navsi_test_task.Server  - A new thread for a new client is created
+[main] INFO  com.example.Navsi_test_task.Server  - Connection is set. Server waits for an answer
+[main] INFO  com.example.Navsi_test_task.Client  - Connection is set!
+[main] INFO  com.example.Navsi_test_task.Client  - File is read
+[main] INFO  com.example.Navsi_test_task.Client  - Binary data is sent
+[main] INFO  com.example.Navsi_test_task.Client  - Server answer is read
+[main] INFO  com.example.Navsi_test_task.Client  - Binary data is sent
+[main] INFO  com.example.Navsi_test_task.Server  - Connection is set. Server waits for an answer
+[main] INFO  com.example.Navsi_test_task.Server  - A new thread for a new client is created
+[main] INFO  com.example.Navsi_test_task.Server  - Connection is set. Server waits for an answer
+[main] INFO  com.example.Navsi_test_task.Client  - Connection is set!
+[main] INFO  com.example.Navsi_test_task.Client  - File is read
+[main] INFO  com.example.Navsi_test_task.Client  - Binary data is sent
+[main] INFO  com.example.Navsi_test_task.Client  - Server answer is read
+[main] INFO  com.example.Navsi_test_task.Client  - Binary data is sent
+[main] INFO  com.example.Navsi_test_task.Client  - Server answer is read
+[main] INFO  com.example.Navsi_test_task.Client  - Binary data is sent
+[main] INFO  com.example.Navsi_test_task.Client  - Server answer is read
+[main] INFO  com.example.Navsi_test_task.Client  - Binary data is sent
+[main] INFO  com.example.Navsi_test_task.Client  - Server answer is read
+[main] INFO  com.example.Navsi_test_task.Client  - The end of the file
+[main] INFO  com.example.Navsi_test_task.Server  - Connection is set. Server waits for an answer
+[main] INFO  com.example.Navsi_test_task.Server  - A new thread for a new client is created
+[main] INFO  com.example.Navsi_test_task.Server  - Connection is set. Server waits for an answer
+[main] INFO  com.example.Navsi_test_task.Client  - Connection is set!
+[main] INFO  com.example.Navsi_test_task.Client  - File is read
+[main] INFO  com.example.Navsi_test_task.Client  - Binary data is sent
+[main] INFO  com.example.Navsi_test_task.Client  - Server answer is read
+[main] INFO  com.example.Navsi_test_task.Client  - Binary data is sent
+[main] INFO  com.example.Navsi_test_task.Client  - Server answer is read
+[main] INFO  com.example.Navsi_test_task.Client  - Binary data is sent
+[main] INFO  com.example.Navsi_test_task.Client  - Server answer is read
+[main] INFO  com.example.Navsi_test_task.Client  - Binary data is sent
+[main] INFO  com.example.Navsi_test_task.Client  - Server answer is read
+[main] INFO  com.example.Navsi_test_task.Client  - The end of the file
+[main] INFO  com.example.Navsi_test_task.Server  - Connection is set. Server waits for an answer
+[main] INFO  com.example.Navsi_test_task.Server  - A new thread for a new client is created
+[main] INFO  com.example.Navsi_test_task.Server  - Connection is set. Server waits for an answer
+[main] INFO  com.example.Navsi_test_task.Client  - Connection is set!
+[main] INFO  com.example.Navsi_test_task.Client  - File is read
+[main] INFO  com.example.Navsi_test_task.Client  - Binary data is sent
+[main] INFO  com.example.Navsi_test_task.Client  - Server answer is read
+[main] INFO  com.example.Navsi_test_task.Client  - Binary data is sent
+[main] INFO  com.example.Navsi_test_task.Client  - Server answer is read
+[main] INFO  com.example.Navsi_test_task.Client  - Binary data is sent
+[main] INFO  com.example.Navsi_test_task.Client  - Server answer is read
+[main] INFO  com.example.Navsi_test_task.Client  - Binary data is sent
+[main] INFO  com.example.Navsi_test_task.Client  - Server answer is read
+[main] INFO  com.example.Navsi_test_task.Client  - The end of the file
